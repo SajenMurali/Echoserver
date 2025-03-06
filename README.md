@@ -75,11 +75,11 @@ print(f"Received from server: {data.decode()}")
 
 ## OUTPUT:
 ### Server side:
-![Screenshot 2025-03-06 111755](https://github.com/user-attachments/assets/d95c39bd-97e1-4567-b7a5-af6108a748c1)
+![Screenshot 2025-03-06 111725](https://github.com/user-attachments/assets/0a9d54be-7b7c-4862-95cd-036976ece649)
 
 
 ### Client side:
-![Screenshot 2025-03-06 111725](https://github.com/user-attachments/assets/0a9d54be-7b7c-4862-95cd-036976ece649)
+![Screenshot 2025-03-06 111755](https://github.com/user-attachments/assets/d95c39bd-97e1-4567-b7a5-af6108a748c1)
 
 
 ## RESULT:
